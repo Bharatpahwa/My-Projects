@@ -1,0 +1,30 @@
+@media (max-width: 500px) {
+  .my-projects {
+    transform: scale(0.6);
+    margin: -60px 0px -370px 0px;
+  }
+  .pro {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 10px 0px 10px;
+    transform: scale(0.8);
+  }
+  .pro-4-5 {
+    display: flex;
+    flex-direction: column;
+    margin: -310px 10px 0px 10px;
+    transform: scale(0.8);
+  }
+  .added {
+    font-size: 10px;
+    scale: 0.6;
+    text-align: center;
+    padding: 10px 40px 30px 20px;
+    margin: -200px 40px 10px 40px;
+  }
+
+  .added-sec {
+    display: flex;
+    flex-direction: column;
+  }
+}
