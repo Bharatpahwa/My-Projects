@@ -154,6 +154,16 @@ a {
   display: none;
 }
 
+#added-3 {
+display: none;
+}
+
 #closed {
   cursor: pointer;
+}
+
+.group1{
+  margin: 30px;
+  height: 800px;
+  width: 1200px;
 }
